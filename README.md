@@ -23,6 +23,6 @@ those models against experimental data.
 
 ### Toolbox
 
-`Python` · `MATLAB` · `Abaqus` · `Ansys` · `PLAXIS 3D` · `LAMMPS` · `PyTorch` · `Typst`
+`Python` · `MATLAB` · `Abaqus` · `Ansys Mechanical` · `PLAXIS 3D` · `SolidWorks` · `LAMMPS` · `PyTorch` · `Typst`
 
 <sub>Also published as M. Jafarian Abyaneh · Mostafa J. Abyaneh · M. J. Abyaneh</sub>
