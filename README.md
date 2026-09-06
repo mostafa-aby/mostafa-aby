@@ -10,7 +10,7 @@ how they fail, and machine learning and Bayesian optimization to calibrate
 those models against experimental data.
 
 - 🌐 **Website — [mostafa-aby.github.io](https://mostafa-aby.github.io)**
-- 📄 [Curriculum vitae](https://mostafa-aby.github.io/cv/)
+- 📄 [Curriculum vitae (PDF)](https://mostafa-aby.github.io/assets/cv.pdf)
 - 🎓 [Google Scholar](https://scholar.google.com/citations?user=bxRWCD4AAAAJ&hl=en)
 - 💼 [LinkedIn](https://www.linkedin.com/in/mostafa-aby)
 - ✉️ mjafaria@umd.edu
